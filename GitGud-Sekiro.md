@@ -1,4 +1,5 @@
 ﻿GitGud Sekiro
+
 Informational   
 
 
@@ -88,6 +89,7 @@ Accessibility:
 
 Gloomaps Website Setup: 
 * https://www.gloomaps.com/obAJ4x7WWT 
+![Figma Mockup](https://github.com/AGV21/GitGud-Sekiro.M2/blob/09d239802f8f5fa9ea0d3694966c35bed909fa5a/Screen%20Shot%202022-08-17%20at%2011.21.52%20AM.png)
   
 
 
