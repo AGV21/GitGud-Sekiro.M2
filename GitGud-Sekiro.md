@@ -94,6 +94,7 @@ Gloomaps Website Setup:
 
 Figma Mockup:
 * https://www.figma.com/file/xRoHZaSRpzvLLgNJ2kuoDo/GitGud-Sekiro 
+![Figma Mockup](https://github.com/AGV21/GitGud-Sekiro.M2/blob/6f289a7877bcf2d17d64e31f10b0356e974c4120/Screen%20Shot%202022-08-17%20at%2010.25.32%20AM.png)
   
 
 
