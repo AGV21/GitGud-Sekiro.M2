@@ -75,6 +75,8 @@ Image Tools:
 
 Text Tools: 
 * Textise (http://www.textise.net)
+
+Font Style:
 * Tiro Gurmukhi (Font Style)
 
 
@@ -85,6 +87,7 @@ Colors:
 
 Accessibility: 
 * Large font size for easier reading 
+* Simplistic layout for easy use
 
 
 Gloomaps Website Setup: 
@@ -108,3 +111,7 @@ Design Reasons:
 * The tabs for “Bosses” and “Endings” are placed next to the name of the website at the top to be symmetric.
 * Screenshot from the game as the background so the site does not look boring.
 * All text will be in a black box that is a little transparent so the site users can read the text easily while also not disturbing the background image.
+
+Website Functions:
+* Teach struggling players how to over a boss
+* Help players complete a specific ending
