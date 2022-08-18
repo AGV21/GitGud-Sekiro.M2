@@ -114,5 +114,5 @@ Design Reasons:
 * All text will be in a black box that is a little transparent so the site users can read the text easily while also not disturbing the background image.
 
 Website Functions:
-* Teach struggling players how to over a boss
-* Help players complete a specific ending
+* To teach struggling players how to overcome a boss
+* To help players complete a specific ending using a guide
